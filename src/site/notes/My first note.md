@@ -17,3 +17,5 @@ print(z)
 ```
 
 ![Screenshot 2023-08-16 at 10.06.40 AM.png](/img/user/Screenshot%202023-08-16%20at%2010.06.40%20AM.png)
+
+![Screenshot 2023-08-16 at 10.09.43 AM.png](/img/user/Attachments/Screenshot%202023-08-16%20at%2010.09.43%20AM.png)
