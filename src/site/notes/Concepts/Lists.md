@@ -347,7 +347,7 @@ With those minor changes to `TradingCard`, the `List` structure back on the list
    
    ![Screenshot 2023-01-21 at 9.28.02 AM.png](/img/user/Attachments/Screenshot%202023-01-21%20at%209.28.02%20AM.png)
    
-   ... to this many:
+   ... to this many lines:
    
    ![Screenshot 2023-01-21 at 9.22.55 AM.png](/img/user/Attachments/Screenshot%202023-01-21%20at%209.22.55%20AM.png)
    
