@@ -79,6 +79,16 @@ body {
     --radius-m: 2px;
     --radius-l: 3px;
     --radius-xl: 4px;
+    
+    /* Ensure that quotes get indented just a bit */
+    blockquote > p {
+        padding-left: 20px;
+    }
+
+    blockquote {
+        padding-left: 20px;
+    }
+    
 
 }
 
